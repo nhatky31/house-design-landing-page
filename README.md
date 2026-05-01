@@ -8,7 +8,10 @@ Dự án thực hành cá nhân nhằm rèn luyện kỹ năng xây dựng giao 
 
 *(Dưới đây là ảnh chụp tổng quan của trang web)*
 
-![Giao diện House Design](./img/FireShot Capture 008 - House Design - [127.0.0.1].png)
+
+<p align="center">
+  <img src="img/FireShot Capture 008 - House Design - [127.0.0.1].png" alt="House Landing Page Preview" width="800">
+</p>
 ## 🚀 Công nghệ sử dụng
 *   **HTML5:** Sử dụng cấu trúc thẻ Semantic (`<header>`, `<section>`, `<footer>`,...).
 *   **CSS3:** Áp dụng Flexbox và CSS Grid layout để chia bố cục trang.
