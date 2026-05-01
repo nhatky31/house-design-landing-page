@@ -4,6 +4,11 @@ Dự án thực hành cá nhân nhằm rèn luyện kỹ năng xây dựng giao 
 
 🎯 **Live Demo:** https://nhatky31.github.io/house-design-landing-page/
 
+## 📸 Giao diện dự án
+
+*(Dưới đây là ảnh chụp tổng quan của trang web)*
+
+![Giao diện House Design](./img/FireShot Capture 008 - House Design - [127.0.0.1].png)
 ## 🚀 Công nghệ sử dụng
 *   **HTML5:** Sử dụng cấu trúc thẻ Semantic (`<header>`, `<section>`, `<footer>`,...).
 *   **CSS3:** Áp dụng Flexbox và CSS Grid layout để chia bố cục trang.
