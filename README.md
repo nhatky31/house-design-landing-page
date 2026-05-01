@@ -10,7 +10,7 @@ Dự án thực hành cá nhân nhằm rèn luyện kỹ năng xây dựng giao 
 
 
 <p align="center">
-  <img src="img/FireShot Capture 008 - House Design - [127.0.0.1].png" alt="House Landing Page Preview" width="800">
+  <img src="img/HouseDesign.png" alt="House Landing Page Preview" width="800">
 </p>
 
 ## 🚀 Công nghệ sử dụng
